@@ -1,0 +1,10 @@
+
+mark: 5 (+1 bonus)
+
+notes:
+-for task 1, the tests print out the value of the built-in function join, but
+ should be using the defined function my_join. using this you can see that the
+ separator is added at the end even though it shouldn't be
+-in church_theft.py, could use more descriptive function names. please also
+ avoid reusing function names (getkey) to avoid confusion
+-nice use of commenting throughout, could try a bit more testing in the future
