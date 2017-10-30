@@ -1,0 +1,12 @@
+
+mark: 5
+
+notes:
+-in swap.py, it's possible to do it using only one temporary variable
+-in while_list.py, better to not mutate mylist but instead just print
+ mylist[x] + 1
+-in write_world.py, better to not hardcode file location 
+-in hangman.py, shown_phrase is never used and program can't handle user
+ entering uppercase letters. it also adds multiple guessed characters if the
+ user enters multiple letters (like try entering 'nod'), even though it 
+ prints the correct message
