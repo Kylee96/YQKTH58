@@ -1,0 +1,7 @@
+There are quite alot of thefts related to church roofing, 94 to be exact, which was counted using the filter function that was applied to the data set.
+However, on closer inspection and manual checking, I realised that some of the selected data mention roof, but the suspect was unable to steal anything.
+The suspect only managed to make it onto the roof, but went away without anything. Some examples of such data include "approach unattended secure property
+climb onto group floor roof and proceed to part remove and roll up the lead ridge flashing make off empty handed", "unknown suspect(s) under cover of darkness
+approach rear of church building before use means unknown to climb onto roof before use means unknown to attempt to pull approximately 8feet of lead flashing
+from roof but fail leaving it damaged in situ". However, all these data are still included into the count of the number of thefts that involve stealing parts
+of a roof.

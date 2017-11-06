@@ -1,0 +1,5 @@
+Partner 1 name: Sharim Babar
+Student number: 16070593
+
+Partner 2 name: David Doosoo
+Student name: 16048424
