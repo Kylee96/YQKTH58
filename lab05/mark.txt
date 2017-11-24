@@ -1,0 +1,14 @@
+
+mark: 5
+
+notes:
+-in filter.py, instructions said to define the lambda part in a function.
+ could have done more testing
+-in map.py, need to cast as float in formula
+-in churchtheft.py, should hand in without printing out all crime details
+ (makes it hard to find numbers). it makes the code brittle to get the free
+ text field using hardcoded constants like [48:], better to split along the
+ delimiters
+-the code in churchtheft.py looks very similar to that of another set of
+ students. please be more explicit about who you work with in the future
+-nice use of list comprehensions, great commenting
