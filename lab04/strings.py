@@ -20,6 +20,7 @@ print mysep.join(mylist)
 # Using the method join to combine mylist and mysep1 "+"
 mysep1 = "+"
 print mysep1.join(mylist)
+print my_join(mylist,mysep1)
 
 # Task 2
 # Defining mystring

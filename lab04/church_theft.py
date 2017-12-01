@@ -1,7 +1,7 @@
 # To open the file and to display the data as lists, with each row as one element of the list
-file = open('/Users/Kylee/secu2002_YQKTH58/lab04/data/church_metal_theft.csv','r' )
+file = open('../../../../data/church_metal_theft.csv','r' )
 rows = file.readlines()
-print rows
+#print rows
 
 # To print an empty line in between
 print ''
