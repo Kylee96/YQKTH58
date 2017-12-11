@@ -1,0 +1,9 @@
+
+mark: 3
+
+notes:
+-the rvalue should be close to 0 for the linear regression because x and y are
+both independent and uniformly random samples from the distribution. thus even
+though the code to produce them is the same they have no relationship (i.e.,
+given one uniformly random value you are not going to have any advantage in
+guessing another), which is why there is no correlation
