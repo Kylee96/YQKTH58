@@ -1,0 +1,12 @@
+
+mark: 3
+
+notes:
+-the else block in bin_find and bin_find_1 will never get run, since the first
+ three conditions cover all possible cases (<, >, ==)
+-the find functions should actually return the found data, rather than just
+ print things
+-in shapeshift.py, should do the sorting just once after the loop is over
+-some of the code in utilities.py looks very similar to that of other students,
+ so you won't get full credit for it 
+-church_theft won't work since the formatted date isn't added to the list
